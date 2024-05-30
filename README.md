@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Deepak kumar</h1>
-<h3 align="center">A passionate Spring Boot developer from India</h3>
+<h3 align="center">A passionate MERN Stack Developer from India</h3>
 
 - 🔭 I’m currently working on **Instagram API**
 
-- 🌱 I’m currently learning **Java & Spring Boot**
+- 🌱 I’m currently learning **FullStack Web Development**
 
 - 👯 I’m looking to collaborate on **Music player API & Video player API**
 
 - 🤝 I’m looking for help with **Frontend**
 
-- 💬 Ask me about **Spring Boot & Java & SQL**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **deepak7292832956@gmail.com**
 
