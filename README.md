@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **deepak7292832956@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/152RIfI62iZ5GNt0r-hKHQ0JgQ10VsAhM/view?usp=drive_link]([https://drive.google.com/file/d/152RIfI62iZ5GNt0r-hKHQ0JgQ10VsAhM/view?usp=drive_link])
+- 📄 [Know about my experiences] (https://drive.google.com/file/d/152RIfI62iZ5GNt0r-hKHQ0JgQ10VsAhM/view?usp=drive_link)
 
 - ⚡ Fun fact **I think i am funny**
 
